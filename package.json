@@ -1,0 +1,21 @@
+{
+  "name": "rest-api-vue",
+  "version": "1.0.0",
+  "description": "rest api fullstack example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "Yanina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  }
+}
